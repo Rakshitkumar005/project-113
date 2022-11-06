@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 109, 175);
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+.name_of_object{
+    color: white;
+    font-size: 20;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
